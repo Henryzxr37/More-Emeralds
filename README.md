@@ -2,13 +2,14 @@
 This is a data packet generated entirely by DeepSeek, with a very simple function of modifying the refresh probability of Emerald.
 You can also modify the refresh range in the configuration file, but it is not modified by default.
 In theory, it can also be used in other versions of Minecraft by modifying the "pack_fata" in pack.mcmeta
+
 这是一个代码完全由DeepSeek生成的数据包，功能非常简单，就是修改绿宝石刷新概率。
 也可以在配置文件修改刷新范围，但默认不修改。
 按理来说也可在其他Minecraft版本使用，只需修改pack.mcmeta中的"pack_format"
 
 Here is DeepSeek's original words:
 DeepSeek原话：
-======================================
+
 以下是为 **Minecraft 1.21.1** 编写的自定义绿宝石生成概率的数据包完整框架和代码，无需安装模组即可生效：
 ---
 
@@ -196,5 +197,3 @@ emerald-ores-datapack/
 - **版本兼容性**：数据包基于 **1.21.1** 版本设计，其他版本可能需要调整 `pack_format` 和字段名称。
 
 - **与原版特性冲突**：若其他数据包也修改了 `ore_emerald` 配置，需合并逻辑。
-
-======================================
