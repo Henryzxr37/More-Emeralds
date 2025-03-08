@@ -1,4 +1,4 @@
-.# More-Emeralds
+# More-Emeralds
 This is a Minecraft datapack generated entirely by DeepSeek, with a very simple function of modifying the refresh probability of Emerald.
 You can also modify the refresh range in the configuration file, but it is not modified by default.
 In theory, it can also be used in other versions of Minecraft by modifying the "pack_format" in "pack.mcmeta".
