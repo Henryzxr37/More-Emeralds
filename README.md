@@ -1,9 +1,9 @@
 .# More-Emeralds
-This is a data packet generated entirely by DeepSeek, with a very simple function of modifying the refresh probability of Emerald.
+This is a Minecraft datapack generated entirely by DeepSeek, with a very simple function of modifying the refresh probability of Emerald.
 You can also modify the refresh range in the configuration file, but it is not modified by default.
 In theory, it can also be used in other versions of Minecraft by modifying the "pack_format" in "pack.mcmeta".
 
-这是一个代码完全由DeepSeek生成的数据包，功能非常简单，就是修改绿宝石刷新概率。
+这是一个代码完全由DeepSeek生成的我的世界数据包，功能非常简单，就是修改绿宝石刷新概率。
 也可以在配置文件修改刷新范围，但默认不修改。
 按理来说也可在其他Minecraft版本使用，只需修改pack.mcmeta中的"pack_format"。
 
