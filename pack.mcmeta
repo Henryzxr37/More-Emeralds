@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 42,    // 适用于1.21.X版本
+    "description": "Increase emerald ore generation rate by 5x"
+  }
+}

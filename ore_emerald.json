@@ -1,0 +1,24 @@
+{
+  "feature": "minecraft:ore_emerald",
+  "placement": [
+    {
+      "type": "minecraft:count",         // 每区块生成次数
+      "count": 20                        // 原版为4，此处提升5倍
+    },
+    {
+      "type": "minecraft:height_range",  // 生成高度范围
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": -16
+        },
+        "max_inclusive": {
+          "absolute": 320
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
