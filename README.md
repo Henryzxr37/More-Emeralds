@@ -7,7 +7,7 @@ In theory, it can also be used in other versions of Minecraft by modifying the "
 也可以在配置文件修改刷新范围，但默认不修改。
 按理来说也可在其他Minecraft版本使用，只需修改pack.mcmeta中的"pack_format"
 
-Here is DeepSeek's original words:   DeepSeek原话：
+Here is DeepSeek's original words / DeepSeek原话：
 
 以下是为 **Minecraft 1.21.1** 编写的自定义绿宝石生成概率的数据包完整框架和代码，无需安装模组即可生效：
 ---
